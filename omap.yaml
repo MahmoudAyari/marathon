@@ -1,0 +1,12 @@
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties: []
+    containerRecognitionProperties:
+    - {method: equals, name: oMapClassName, value: fr.istic.oci.JListAddOrRemoveItem}
+    containerTitles: [Add/Remove JList]
+    fileName: Add_Remove JList_6914143261984093762.yaml
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties: []
+    containerRecognitionProperties:
+    - {method: equals, name: oMapClassName, value: javax.swing.JOptionPane#Dialog_0_-1}
+    containerTitles: [Error]
+    fileName: Error_8693513000719501701.yaml

@@ -1,0 +1,120 @@
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: type, value: JTextField}
+    - {method: equals, name: fieldName, value: name}
+    generalProperties:
+    - {name: tagName, value: text-field}
+    - {name: indexOfType, value: '0'}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: instanceOf, value: javax.swing.JTextField}
+    - {name: component.class.name, value: javax.swing.JTextField}
+    - {name: position, value: '[x=527,y=189]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JTextField}
+    - {name: component.class.simpleName, value: JTextField}
+    - {name: fieldName, value: name}
+    - {name: size, value: '[width=380,height=23]'}
+    name: name
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: type, value: JTextField}
+    - {method: equals, name: fieldName, value: surname}
+    generalProperties:
+    - {name: tagName, value: text-field}
+    - {name: indexOfType, value: '1'}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: instanceOf, value: javax.swing.JTextField}
+    - {name: component.class.name, value: javax.swing.JTextField}
+    - {name: position, value: '[x=527,y=227]'}
+    - {name: enabled, value: 'true'}
+    - {name: cText, value: mahmoud}
+    - {name: type, value: JTextField}
+    - {name: component.class.simpleName, value: JTextField}
+    - {name: fieldName, value: surname}
+    - {name: size, value: '[width=380,height=23]'}
+    name: surname
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: type, value: JTextField}
+    - {method: equals, name: fieldName, value: identifiant}
+    generalProperties:
+    - {name: tagName, value: text-field}
+    - {name: indexOfType, value: '2'}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: instanceOf, value: javax.swing.JTextField}
+    - {name: component.class.name, value: javax.swing.JTextField}
+    - {name: position, value: '[x=527,y=265]'}
+    - {name: enabled, value: 'true'}
+    - {name: cText, value: 444-GGG-}
+    - {name: type, value: JTextField}
+    - {name: component.class.simpleName, value: JTextField}
+    - {name: fieldName, value: identifiant}
+    - {name: size, value: '[width=380,height=23]'}
+    name: identifiant
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: type, value: JButton}
+    - {method: equals, name: fieldName, value: btnAdd}
+    generalProperties:
+    - {name: accessibleContext.accessibleName, value: Add}
+    - {name: tagName, value: button}
+    - {name: indexOfType, value: '0'}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: component.class.name, value: javax.swing.JButton}
+    - {name: instanceOf, value: javax.swing.JButton}
+    - {name: position, value: '[x=539,y=288]'}
+    - {name: enabled, value: 'true'}
+    - {name: cText, value: Add}
+    - {name: actionCommand, value: Add}
+    - {name: type, value: JButton}
+    - {name: component.class.simpleName, value: JButton}
+    - {name: buttonText, value: Add}
+    - {name: fieldName, value: btnAdd}
+    - {name: accessibleName, value: Add}
+    - {name: size, value: '[width=61,height=25]'}
+    name: Add
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: type, value: JList}
+    - {method: equals, name: fieldName, value: myList}
+    generalProperties:
+    - {name: tagName, value: list}
+    - {name: indexOfType, value: '0'}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: instanceOf, value: javax.swing.JList}
+    - {name: component.class.name, value: javax.swing.JList}
+    - {name: position, value: '[x=527,y=314]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JList}
+    - {name: component.class.simpleName, value: JList}
+    - {name: fieldName, value: myList}
+    - {name: size, value: '[width=380,height=315]'}
+    name: myList
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: type, value: JButton}
+    - {method: equals, name: fieldName, value: btnDelete}
+    generalProperties:
+    - {name: accessibleContext.accessibleName, value: Delete}
+    - {name: tagName, value: button}
+    - {name: indexOfType, value: '1'}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: component.class.name, value: javax.swing.JButton}
+    - {name: instanceOf, value: javax.swing.JButton}
+    - {name: position, value: '[x=676,y=634]'}
+    - {name: enabled, value: 'true'}
+    - {name: cText, value: Delete}
+    - {name: actionCommand, value: Delete}
+    - {name: type, value: JButton}
+    - {name: component.class.simpleName, value: JButton}
+    - {name: buttonText, value: Delete}
+    - {name: fieldName, value: btnDelete}
+    - {name: accessibleName, value: Delete}
+    - {name: size, value: '[width=81,height=25]'}
+    name: Delete
+    used: true

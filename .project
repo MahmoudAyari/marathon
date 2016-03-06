@@ -1,0 +1,21 @@
+#Marathon Project File
+#Sat Mar 05 16:45:29 CET 2016
+marathon.checklist.dir=%marathon.project.dir%/Checklists
+marathon.test.dir=%marathon.project.dir%/TestCases
+marathon.application.rubyhome=
+marathon.application.launchtime=60000
+marathon.data.dir=%marathon.project.dir%/TestData
+marathon.application.arguments=
+marathon.aut.executable.launch=%marathon.project.dir%/test.jar
+marathon.application.working.dir=
+marathon.capture.dir=%marathon.project.dir%/Modules
+marathon.project.launcher.model=com.jaliansystems.marathonite.launchers.executablejar.ExecutableJarLauncherModel
+marathon.fixture.dir=%marathon.project.dir%/Fixtures
+marathon.project.description=
+marathon.application.java.home=
+marathon.application.start.window=
+marathon.project.name=TestMarathon
+marathon.suite.dir=%marathon.project.dir%/TestSuites
+marathon.application.rubypath=
+marathon.project.script.model=com.jaliansystems.marathonite.refactor.ruby.MarathonITERubyScriptModel
+marathon.application.vm.arguments=
